@@ -7,3 +7,4 @@ During my studing process I divided the materials into several sub files:
   * Feature Engineering
   * Model Evaluation
   * A/B tests and statistics
+  * ML System Design (just slight basics)
