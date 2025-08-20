@@ -1,0 +1,1 @@
+This is the final result of my theoretical preparing for ML interview. I have done a lot of work to look for these materials, collecting them, learning, learning and learning again. This actually took around 2 years to finally get into materials I searched but the final state was made at the summer 2025
